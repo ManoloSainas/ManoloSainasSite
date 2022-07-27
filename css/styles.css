@@ -2,8 +2,17 @@ body {
     margin: 0;
 }
 
-div {
+.top-container {
     background-color: #B4E197;
+    padding: 20px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+ 
 }
 
 h1 {
